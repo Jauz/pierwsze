@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hej witaj wędrowcze
 
 You can use the [editor on GitHub](https://github.com/Jauz/pierwsze/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
